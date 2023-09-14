@@ -1,4 +1,5 @@
 AI ChitChat Support
+
 Welcome to the AI ChitChat Support page. We're here to assist you with any questions, concerns, or issues you may have while using our application. Our goal is to ensure you have a seamless and enjoyable experience with AI ChitChat.
 
 How Can We Help You?
