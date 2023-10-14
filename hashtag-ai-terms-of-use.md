@@ -12,7 +12,7 @@ These Terms of Use ("Terms") govern your access to and use of the "Hashtag AI" a
    Any images, data, or content that you upload or process using the Application ("User Content") remains your property. By using the Application, you grant us a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, adapt, publish, translate, distribute, and display your User Content solely for the purpose of providing and improving the Application.
 
 4. **Privacy Policy:**
-   Your use of the Application is also governed by our Privacy Policy, which can be found at https://github.com/superwebarmy/thealpha/blob/main/image-size-reducer-privacy-policy.md. Please review our Privacy Policy to understand how we collect, use, and protect your information.
+   Your use of the Application is also governed by our Privacy Policy, which can be found at https://github.com/superwebarmy/thealpha/blob/main/hashtag-ai-privacy-policy.md. Please review our Privacy Policy to understand how we collect, use, and protect your information.
 
 5. **Prohibited Activities:**
    You agree not to:
