@@ -14,4 +14,4 @@ If you encounter any technical issues, bugs, or glitches while using Milk Calcul
 
 Provide Feedback
 
-We value your feedback! If you have suggestions for improving Hashtag AI or if you'd like to share your thoughts on your experience, please take a moment to provide feedback. Your input helps us make our application better.
+We value your feedback! If you have suggestions for improving Milk Calculator or if you'd like to share your thoughts on your experience, please take a moment to provide feedback. Your input helps us make our application better.
