@@ -32,7 +32,7 @@ Direct Message is not intended for children under the age of 13. We do not knowi
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 8. Contact Us
-If you have any questions about this Privacy Policy, please contact us at [Insert Contact Information].
+If you have any questions about this Privacy Policy, please contact us at shakkygoyal@gmail.com
 
 Thank you for using Direct Message!
 
