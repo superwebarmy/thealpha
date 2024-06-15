@@ -1,6 +1,6 @@
 Image Size Reducer Support
 
-Welcome to the AI ChitChat Support page. We're here to assist you with any questions, concerns, or issues you may have while using our application. Our goal is to ensure you have a seamless and enjoyable experience with Image Size Reducer.
+Welcome to the Image Size Reducer Support page. We're here to assist you with any questions, concerns, or issues you may have while using our application. Our goal is to ensure you have a seamless and enjoyable experience with Image Size Reducer.
 
 How Can We Help You?
 
