@@ -1,59 +1,23 @@
-Privacy Policy
+Privacy Policy for Story Saver
 
-Effective Date: 14 October, 2024
+Effective Date: 28 October, 2024
 
-1. Introduction
+Thank you for choosing Story Saver. Your privacy is important to us, and this Privacy Policy explains how we handle any information collected in connection with our app.
 
-Welcome to Story Saver. We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect, use, and disclose your information when you use our mobile application (the “App”).
+1. Information Collection
+Story Saver does not collect, store, or process any personal data or identifiable information about our users. The app solely provides a service to bookmark video links of posts, reels, and stories from social media platforms.
 
-By using the App, you agree to the terms of this privacy policy. If you do not agree, please refrain from using the App.
+2. Third-Party Advertising
+To keep Story Saver free to use, we may display advertisements through third-party ad providers. These advertisements may involve data collection by our advertising partners. This data is used to deliver relevant ads but is not linked to any personally identifiable information or used for tracking purposes. We do not control or process the data collected by third-party advertisers.
 
-2. Information We Collect
+Third-Party Advertising Networks:
+Our advertising partners may use cookies and similar technologies to enhance ad experiences. This data may include information such as device type, operating system, and general location data, but it is anonymized and not linked to user identities.
+For information on how third-party advertisers collect and use data, please review the privacy policies of our advertising partners. We encourage users to manage their ad preferences and use any opt-out options available.
+3. Compliance with Laws
+Story Saver may disclose information collected by third-party advertisers if required by law, such as to comply with legal processes, enforce this Privacy Policy, or protect the rights, property, or safety of our users or the public.
 
-We collect and process the following information when you use our App:
+4. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Changes will be posted on this page, and the effective date will be updated accordingly. We recommend checking this page periodically for any updates.
 
-Personal Information: This includes your email address, username, and any other information you voluntarily provide when registering or contacting us.
-Usage Data: We may collect information related to how you use the App, such as which features you interact with (e.g., stories bookmarked, reposts made).
-Device Information: Information about your device, including IP address, operating system, and browser type, may be collected automatically.
-3. How We Use Your Information
-
-The information we collect is used for the following purposes:
-
-To provide, maintain, and improve the App and its features.
-To allow you to bookmark and repost stories, posts, and reels.
-To respond to your inquiries and provide customer support.
-To analyze usage trends and enhance user experience.
-4. Sharing Your Information
-
-We do not sell or share your personal information with third parties, except in the following situations:
-
-With Your Consent: We may share information when you provide your explicit consent.
-Legal Obligations: If required by law, we may disclose your data to comply with legal obligations, regulations, or court orders.
-5. Third-Party Services
-
-Our App may use third-party services, such as cloud storage or analytics, to provide functionality and analyze usage data. These third parties may collect your data in accordance with their own privacy policies.
-
-6. Data Security
-
-We implement reasonable measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet or electronic storage is completely secure.
-
-7. Your Data Rights
-
-You have the right to:
-
-Access and update your personal information.
-Request deletion of your data.
-Object to or restrict the processing of your data.
-If you wish to exercise any of these rights, please contact us at shakkygoyal@gmail.com
-
-8. Changes to This Privacy Policy
-
-We may update this privacy policy from time to time. Any changes will be posted on this page, and the updated version will take effect as of the date stated at the top of the policy.
-
-9. Contact Us
-
-If you have any questions about this privacy policy or the App, please contact us at:
-
-TheAlpha
-shakkygoyal@gmail.com
-
+5. Contact Us
+If you have any questions about this Privacy Policy, please contact us at shakkygoyal@gmail.com
