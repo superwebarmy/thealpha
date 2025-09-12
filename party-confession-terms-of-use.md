@@ -1,5 +1,5 @@
 1. Acceptance of Terms
-By downloading, installing, or using the "Never Have I Ever" mobile application (the "App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using the "Party Confession" mobile application (the "App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, do not use the App.
 
 2. Changes to Terms
 We may modify these Terms at any time. Any changes will be effective immediately upon posting the updated Terms on the App. Your continued use of the App after the changes constitutes your acceptance of the new Terms.
@@ -42,4 +42,4 @@ These Terms shall be governed and construed in accordance with the laws of [Your
 If you have any questions about these Terms, please contact us:
 
 By email: shakkygoyal@gmail.com
-Thank you for using "Never Have I Ever"!
+Thank you for using "Party Confession"!
