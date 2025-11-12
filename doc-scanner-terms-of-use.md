@@ -1,10 +1,10 @@
 Terms of Use
 Last Updated: 10 March, 2025
 
-Welcome to Cam Scanner! By downloading or using this app, you agree to comply with the following Terms of Use. Please read them carefully.
+Welcome to Doc Scanner! By downloading or using this app, you agree to comply with the following Terms of Use. Please read them carefully.
 
 1. Acceptance of Terms
-By using Cam Scanner, you agree to these Terms of Use. If you do not agree, please do not use the app.
+By using Doc Scanner, you agree to these Terms of Use. If you do not agree, please do not use the app.
 
 2. Use of the App
 Personal Use Only: This app is intended for personal and professional use to scan and manage documents.
@@ -30,4 +30,4 @@ For any questions about these Terms of Use, contact us:
 
 📧 Email: shakkygoyal@gmail.com
 
-By using Cam Scanner, you agree to these Terms of Use.
+By using Doc Scanner, you agree to these Terms of Use.
