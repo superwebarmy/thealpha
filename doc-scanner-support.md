@@ -1,6 +1,6 @@
-Cam Scanner Support
+Doc Scanner Support
 
-If you have any questions, issues, or feedback regarding Cam Scanner, we’re here to help!
+If you have any questions, issues, or feedback regarding Doc Scanner, we’re here to help!
 
 Contact Us:
 
